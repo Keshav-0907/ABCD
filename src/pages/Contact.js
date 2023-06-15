@@ -35,6 +35,7 @@ const Contact = () => {
                     src="https://www.google.com/maps/d/u/0/embed?mid=1kdJYHiILktZMOOX0Nd9dZ6XhpTlM3aA&ehbc=2E312F"
                     width="600"
                     height="480"
+                    title='map'
                     sandbox="allow-scripts"
                 ></iframe>
             </Container>
